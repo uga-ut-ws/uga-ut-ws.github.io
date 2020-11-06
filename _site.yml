@@ -1,0 +1,17 @@
+name: "UGA & UT workshop"
+output_dir: "."
+base_url: https://workshopTsukubaGrenoble.github.io
+# google_analytics: "UA-158808753-1"
+navbar:
+  title: "UGA & UT workshop"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Program"
+      href: program.html
+    - text: "Committee"
+      href: committee.html
+  right:
+    - icon: fa-envelope
+      href: mailto:lavinas.yuri.xp@alumni.tsukuba.ac.jp
+
