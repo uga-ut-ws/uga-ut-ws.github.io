@@ -30,4 +30,33 @@ All presentations will be pre-recorded and made available through our on-demand 
 
 ## Speakers
 
-## Poster Speakers
+
+###ROCH	Jean-Louis	
+Professor	Grenoble	
+AI teaching in MIAI institute - MIAI is the Grenoble institure that gather all local AI activities
+
+### Matsurabara	Masaki 		
+Work in collaboration with Sihem Amer-Yahia (Grenoble)
+### ROBU	Bogdan	
+Ass. Prof.	Grenoble	
+Applying control techniques to machine learning algorithms
+
+### MONNIAUX 	David	
+Researcher	
+
+
+### Ioualalen	Arnault 	
+CEO Numalis
+Formal validation of neuronal networks with abstract interpretation
+
+### HILI	Nicolas	
+Ass. Prof.	Grenoble
+Sketch recognition based on AI symbolic plan recognition
+
+### BICOUT	Dominique	Researcher
+Similar Group Analysis; InCaRisk for assessing inhalation cancer risk
+
+### PETIT	Pascal	
+Postdoc	
+SGA: Similar Group Analysis; InCaRisk for assessing inhalation cancer risk
+
