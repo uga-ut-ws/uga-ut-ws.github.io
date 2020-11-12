@@ -1,7 +1,6 @@
 name: "UGA & UT workshop"
 output_dir: "."
 base_url: https://workshopTsukubaGrenoble.github.io
-# google_analytics: "UA-158808753-1"
 navbar:
   title: "UGA & UT workshop"
   left:
@@ -14,4 +13,5 @@ navbar:
   right:
     - icon: fa-envelope
       href: mailto:lavinas.yuri.xp@alumni.tsukuba.ac.jp
-
+html_document:
+    css: style.css

@@ -9,7 +9,7 @@ setwd("~/ugaworkshop.github.io//")
 knitr::opts_chunk$set()
 
 #Plotly
-x <- y <- list('fixedrange'= TRUE)
+# x <- y <- list('fixedrange'= TRUE)
 
 #Execute
 render_site()

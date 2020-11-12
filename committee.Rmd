@@ -1,15 +1,139 @@
 ---
-title: "Program"
+title: "Commmittee"
 description: |
-  Workshop Program
+  Workshop Commmittee
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+<br/>
+<br/>
+
+-----
+
+## Coordinators
+
+
+<div style="width: 50%; float: left;"> 
+### FUKUI	Kazuhiro, UT
+
+
+```{r FUKUI, echo=FALSE, out.width = '30%', fig.align='left'}
+knitr::include_graphics("imgs/myself3.png")
+```
+</div>
+
+<div style="width: 50%; float: right;"> 
+### Lydie du Bousquet, UGA
+
+```{r BOUSQUET, echo=FALSE, out.width = '30%', fig.align='left'}
+knitr::include_graphics("imgs/myself3.png")
+```
+</div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+-----
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+## Organization
+
+<div style="width: 50%; float: left;"> 
+### Souza	Lincon	PHD	Tsukuba
+```{r Souza, echo=FALSE, out.width = '30%', fig.align='left'}
+knitr::include_graphics("imgs/myself3.png")
 ```
 
-Commmittee
+### Lavinas	Yuri 	PHD	Tsukuba
+```{r Lavinas, echo=FALSE, out.width = '30%', fig.align='left'}
+knitr::include_graphics("imgs/myself3.png")
+```
 
-# Students
+### Fujinaka	Ayano	PHD	Tsukuba
+```{r Fujinaka, echo=FALSE, out.width = '30%', fig.align='left'}
+knitr::include_graphics("imgs/myself3.png")
+```
 
-# Professors
+### Vijdan	Khalique 	PHD	Tsukuba
+```{r Vijdan, echo=FALSE, out.width = '30%', fig.align='left'}
+knitr::include_graphics("imgs/myself3.png")
+```
+
+### Shimomoto	Erica	PHD	Tsukuba
+```{r Shimomoto, echo=FALSE, out.width = '30%', fig.align='left'}
+knitr::include_graphics("imgs/myself3.png")
+```
+
+### Naoya	Sogi	PHD	Tsukuba
+```{r Naoya, echo=FALSE, out.width = '30%', fig.align='left'}
+knitr::include_graphics("imgs/myself3.png")
+```
+
+### Bourahmoune	Katia 	PHD	Tsukuba
+```{r Bourahmoune, echo=FALSE, out.width = '30%', fig.align='left'}
+knitr::include_graphics("imgs/myself3.png")
+```
+
+### Pereira	Jair 	Master	Tsukuba
+```{r Pereira, echo=FALSE, out.width = '30%', fig.align='left'}
+knitr::include_graphics("imgs/myself3.png")
+```
+
+</div>
+
+<div style="width: 50%; float: right;"> 
+### REINKE	chris	Post-doc	Grenoble
+```{r REINKE, echo=FALSE, out.width = '30%', fig.align='left'}
+knitr::include_graphics("imgs/myself3.png")
+```
+
+### SHALAEVA	Vera	Post-doc	Grenoble
+```{r SHALAEVA, echo=FALSE, out.width = '30%', fig.align='left'}
+knitr::include_graphics("imgs/myself3.png")
+```
+
+### JOUNI	Mohamad	PhD	Grenoble
+```{r JOUNI, echo=FALSE, out.width = '30%', fig.align='left'}
+knitr::include_graphics("imgs/myself3.png")
+```
+
+### GUHUR	Pierre-Louis	PhD	Grenoble
+```{r GUHUR, echo=FALSE, out.width = '30%', fig.align='left'}
+knitr::include_graphics("imgs/myself3.png")
+```
+
+### ZRIGUI	Salah	PhD	Grenoble
+```{r ZRIGUI, echo=FALSE, out.width = '30%', fig.align='left'}
+knitr::include_graphics("imgs/myself3.png")
+```
+
+### KOELSCH	Loriane	PhD	Grenoble
+```{r KOELSCH, echo=FALSE, out.width = '30%', fig.align='left'}
+knitr::include_graphics("imgs/myself3.png")
+```
+
+### RESENDIZ 	Mariel	PHD	Grenoble
+```{r RESENDIZ, echo=FALSE, out.width = '30%', fig.align='left'}
+knitr::include_graphics("imgs/myself3.png")
+```
+
+### Petit	Pascal	Post-doc	Grenoble
+```{r Petit, echo=FALSE, out.width = '30%', fig.align='left'}
+knitr::include_graphics("imgs/myself3.png")
+```
+
+### Foussard	Ernest	PhD	Grenoble
+```{r Foussard, echo=FALSE, out.width = '30%', fig.align='left'}
+knitr::include_graphics("imgs/myself3.png")
+```
+
+</div>

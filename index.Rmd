@@ -1,7 +1,16 @@
 ---
  title: "UGA & UTWorkshop"
+ site: distill::distill_website
  listing: posts
  
 ---
 
-Test
+## About
+
+The UGA & UT Workshop is the XXth Edition of the collaborative workshop between the University of Grenoble and the University of Tsukuba, aiming to XXX. 
+
+We will bring together both the EMO, Multiple Criteria Decision-Making (MCDM) communities, and other related fields and, moreover, focusing on solving real-world problems in government, business and industry.
+
+## Conference Implementation
+
+The UGA & UT Workshop  will be held as an online conference. The conference organizers will make all presentations available for all attendees through the Internet during the workshop
