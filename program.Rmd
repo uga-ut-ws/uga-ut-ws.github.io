@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 The UGA & UT Workshop is pleased to announce the full virtual conference program schedule.
 
-We have opted for a format where each contributed paper or talk, for both oral and poster presentations, will take the form of a pre-recorded video, available during the original dates of the conference and on-demand after the conference concludes.
+We have opted for a format where each contributed paper or talk will take the form of a pre-recorded video, available during the original dates of the conference and on-demand after the conference concludes.
 
 [VIEW CONFERENCE PROGRAM SCHEDULE](https://ugaworkshop.github.io/program.html)
 
@@ -31,12 +31,13 @@ All presentations will be pre-recorded and made available through our on-demand 
 ## Speakers
 
 
-###ROCH	Jean-Louis	
+### ROCH	Jean-Louis	
 Professor	Grenoble	
 AI teaching in MIAI institute - MIAI is the Grenoble institure that gather all local AI activities
 
 ### Matsurabara	Masaki 		
 Work in collaboration with Sihem Amer-Yahia (Grenoble)
+
 ### ROBU	Bogdan	
 Ass. Prof.	Grenoble	
 Applying control techniques to machine learning algorithms

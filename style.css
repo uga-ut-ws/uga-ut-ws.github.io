@@ -28,3 +28,8 @@ img {
   bottom: 0;
   right: 0;
 }
+
+span {
+  display: inline-block;
+  width: 10px;
+}

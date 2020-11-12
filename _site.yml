@@ -13,5 +13,7 @@ navbar:
   right:
     - icon: fa-envelope
       href: mailto:lavinas.yuri.xp@alumni.tsukuba.ac.jp
+    - icon: fa-university
+      href: http://www.tsukuba.ac.jp/en/
 html_document:
     css: style.css
