@@ -13,21 +13,28 @@ description: |
 -----
 
 <div>
+
 <div style="width: 49%; float: left"> 
+
 ```{r FUKUI, echo=FALSE, out.width = '30%', fig.align='left'}
 knitr::include_graphics("imgs/myself3.png")
 ```
 
 #### FUKUI	Kazuhiro, University of Tsukuba
+
 </div>
 
+
 <div style="width: 49%; float: right"> 
+
 ```{r BOUSQUET, echo=FALSE, out.width = '30%', fig.align='left'}
 knitr::include_graphics("imgs/myself3.png")
 ```
 
 #### Lydie du Bousquet, University of Grenoble Alps
+
 </div>
+
 </div>
 
 <br/>
