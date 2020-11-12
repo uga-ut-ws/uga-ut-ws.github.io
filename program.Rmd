@@ -8,4 +8,26 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Workshop Program
+
+The UGA & UT Workshop is pleased to announce the full virtual conference program schedule.
+
+We have opted for a format where each contributed paper or talk, for both oral and poster presentations, will take the form of a pre-recorded video, available during the original dates of the conference and on-demand after the conference concludes.
+
+[VIEW CONFERENCE PROGRAM SCHEDULE](https://ugaworkshop.github.io/program.html)
+
+[TIME ZONE](https://ugaworkshop.github.io/program.html)
+
+Please note that all program timings according to France and Japan time.
+
+## VIRTUAL CONFERENCE FORMAT
+Live Sessions via Zoom
+
+## On-demand via Virtual Conference Platform
+
+Poster session papers.
+All live sessions will also be made available in the platform.
+All presentations will be pre-recorded and made available through our on-demand Virtual Conference Platform in which presentations will be made available to all attendees.
+
+## Speakers
+
+## Poster Speakers
