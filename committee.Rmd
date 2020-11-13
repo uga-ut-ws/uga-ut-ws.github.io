@@ -78,7 +78,7 @@ knitr::include_graphics("imgs/myself3.png")
 
 #### Fujinaka	Ayano	PHD	Tsukuba
 ```{r Fujinaka, echo=FALSE, out.width = '30%', fig.align='left'}
-knitr::include_graphics("imgs/myself3.png")
+knitr::include_graphics("imgs/Ayano_Fujinaka.jpg")
 ```
 
 #### Vijdan	Khalique 	PHD	Tsukuba

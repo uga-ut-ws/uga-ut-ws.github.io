@@ -10,6 +10,6 @@
 The UGA & UT Workshop is the XXth Edition of the collaborative workshop between the University of Grenoble and the University of Tsukuba, aiming to to accelerate the future preparation for double
 degree problem (DDP) between our university and UGA and to enhance the internationality and independence of mind of students of both universities.  
 
-## Conference Implementation
+## Worshop Implementation
 
 The UGA & UT Workshop  will be held as an online conference. The conference organizers will make all presentations available for all attendees through the Internet during the workshop.
