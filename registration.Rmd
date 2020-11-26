@@ -1,0 +1,46 @@
+---
+ title: "Registration & Submission"
+ site: distill::distill_website
+ 
+---
+
+All presentations and interaction will be online and LIVE on [Gather](https://gather.town/).
+
+# Important
+
+If you want to present at our workshop, please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZnHcmIvAWIu0ILR2KuH8jQTCzUafoFu8cnrWr53syDrRajQ/viewform?gxids=7757).
+
+## Oral presentation 
+
+- Young researcher / Student oral presentation: 15 minutes + 5 minutes for QA
+ 
+- Professor oral presentation: 20 minutes + 10 minutes for Questions and Answers.
+	
+All oral presenters should send their oral presentation slides (in PDF format) by December 15th, 23:59 (JST). These will be made available after the workshop, at the website.
+
+
+
+## Poster presentation
+
+To be held on the same day as the oral presentation. Each presenter should be at their designated spot on [Gather](https://gather.town/) during the time of their poster session.
+
+
+All poster presenters should send a "presentation kit" by December 6th, 23:59 (JST).
+
+This kit includes:
+
+1. Spotlight Video: They will be made available at the website and at the entrance of poster session room on [Gather](https://gather.town/)
+- 30 seconds long video with brief introduction of your presentation.
+- Resolution: 720p or better
+- Format: mp4
+
+2. Spotlight slides: To be available at the website.
+- Slides used in the spotlight video.
+- 1 to 2 slides.
+- Format: pdf
+Example of spotlight poster: https://drive.google.com/file/d/18yicA41vHFkrHAADiFty6_mbbn9JuPB6/view?usp=sharing
+
+3. Poster: To be available at the poster session room on [Gather](https://gather.town/)
+- Landscape orientation;
+- Size: Widescreen (16:9)
+Example of poster: https://drive.google.com/file/d/1uO2CIA6ypEXUsjyD2baO9UW65oNPbdVz/view?usp=sharing

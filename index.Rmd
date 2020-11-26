@@ -1,15 +1,29 @@
 ---
  title: "UGA & UTWorkshop"
  site: distill::distill_website
- listing: posts
  
 ---
 
-## About
 
-The UGA & UT Workshop is the XXth Edition of the collaborative workshop between the University of Grenoble and the University of Tsukuba, aiming to to accelerate the future preparation for double
-degree problem (DDP) between our university and UGA and to enhance the internationality and independence of mind of students of both universities.  
+The UGA & UT Workshop is the XXth Edition of the collaborative workshop between the University of Grenoble and the University of Tsukuba.
 
-## Worshop Implementation
+The main goal is to to accelerate the future preparation for double
+degree problem (DDP) between the University of Tsukuba and Univeristy of Grenoble Alpes and to enhance the internationality and independence of mind of students of both universities.  
 
-The UGA & UT Workshop  will be held as an online conference. The conference organizers will make all presentations available for all attendees through the Internet during the workshop.
+### Worshop Implementation
+
+The UGA & UT Workshop is pleased to announce the full virtual conference program schedule.
+
+### Important Information
+
+#### Workshop dates
+
+- December 16-17
+- START: 16:00 Japan Time - 08:00 Paris Time
+- END: 20:00 Japan Time - 12:00 Paris Time
+
+#### Submission procedures
+
+If you want to present at our workshop, please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZnHcmIvAWIu0ILR2KuH8jQTCzUafoFu8cnrWr53syDrRajQ/viewform?gxids=7757)
+
+For more information see the [registration](https://uga-ut-ws.github.io/registration) tab.

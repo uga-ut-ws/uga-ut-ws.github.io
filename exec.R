@@ -4,7 +4,7 @@ library(knitr)
 library(beepr)
 library(dplyr)
 
-setwd("~/ugaworkshop.github.io//")
+setwd("~/uga-ut-ws.github.io/")
 
 knitr::opts_chunk$set()
 

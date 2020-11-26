@@ -68,7 +68,7 @@ knitr::include_graphics("imgs/myself3.png")
 
 #### Souza	Lincon	PHD	Tsukuba
 ```{r Souza, echo=FALSE, out.width = '30%', fig.align='left'}
-knitr::include_graphics("imgs/myself3.png")
+knitr::include_graphics("imgs/lincon.jpg")
 ```
 
 #### Lavinas	Yuri 	PHD	Tsukuba
@@ -88,7 +88,7 @@ knitr::include_graphics("imgs/myself3.png")
 
 #### Shimomoto	Erica	PHD	Tsukuba
 ```{r Shimomoto, echo=FALSE, out.width = '30%', fig.align='left'}
-knitr::include_graphics("imgs/myself3.png")
+knitr::include_graphics("imgs/erica.jpg")
 ```
 
 #### Naoya	Sogi	PHD	Tsukuba
@@ -103,7 +103,7 @@ knitr::include_graphics("imgs/myself3.png")
 
 #### Pereira	Jair 	Master	Tsukuba
 ```{r Pereira, echo=FALSE, out.width = '30%', fig.align='left'}
-knitr::include_graphics("imgs/myself3.png")
+knitr::include_graphics("imgs/jair.jpeg")
 ```
 
 </div>
@@ -124,7 +124,7 @@ knitr::include_graphics("imgs/myself3.png")
 
 #### JOUNI	Mohamad	PhD	Grenoble
 ```{r JOUNI, echo=FALSE, out.width = '30%', fig.align='left'}
-knitr::include_graphics("imgs/myself3.png")
+knitr::include_graphics("imgs/jouni.jpg")
 ```
 
 #### GUHUR	Pierre-Louis	PhD	Grenoble

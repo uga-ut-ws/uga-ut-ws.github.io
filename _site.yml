@@ -8,6 +8,10 @@ navbar:
       href: index.html
     - text: "Program"
       href: program.html
+    - text: "Registration & Submission"
+      href: registration.html
+    - text: "Spotlight Video"
+      href: video.html
     - text: "Committee"
       href: committee.html
   right:

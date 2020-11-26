@@ -22,8 +22,19 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -280,14 +291,17 @@ $(document).ready(function () {
   <a href="program.html">Program</a>
 </li>
 <li>
+  <a href="registration.html">Registration &amp; Submission</a>
+</li>
+<li>
+  <a href="video.html">Spotlight Video</a>
+</li>
+<li>
   <a href="committee.html">Committee</a>
 </li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
-        <li>
+<li>
   <a href="http://www.tsukuba.ac.jp/en/">
     <span class="fa "><img src="imgs/ut2.png" height="18"></span>
-     
   </a>
 </li>
 <li>
@@ -295,6 +309,7 @@ $(document).ready(function () {
     <span class="fa "><img src="imgs/uga2.png" height="18"></span>
   </a>
 </li>
+
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
@@ -309,13 +324,27 @@ $(document).ready(function () {
 </div>
 
 
-<div id="about" class="section level2">
-<h2>About</h2>
-<p>The UGA &amp; UT Workshop is the XXth Edition of the collaborative workshop between the University of Grenoble and the University of Tsukuba, aiming to to accelerate the future preparation for double degree problem (DDP) between our university and UGA and to enhance the internationality and independence of mind of students of both universities.</p>
+<p>The UGA &amp; UT Workshop is the XXth Edition of the collaborative workshop between the University of Grenoble and the University of Tsukuba.</p>
+<p>The main goal is to to accelerate the future preparation for double degree problem (DDP) between the University of Tsukuba and Univeristy of Grenoble Alpes and to enhance the internationality and independence of mind of students of both universities.</p>
+<div id="worshop-implementation" class="section level3">
+<h3>Worshop Implementation</h3>
+<p>The UGA &amp; UT Workshop is pleased to announce the full virtual conference program schedule.</p>
 </div>
-<div id="worshop-implementation" class="section level2">
-<h2>Worshop Implementation</h2>
-<p>The UGA &amp; UT Workshop will be held as an online conference. The conference organizers will make all presentations available for all attendees through the Internet during the workshop.</p>
+<div id="important-information" class="section level3">
+<h3>Important Information</h3>
+<div id="workshop-dates" class="section level4">
+<h4>Workshop dates</h4>
+<ul>
+<li>December 16-17</li>
+<li>START: 16:00 Japan Time - 08:00 Paris Time</li>
+<li>END: 20:00 Japan Time - 12:00 Paris Time</li>
+</ul>
+</div>
+<div id="submission-procedures" class="section level4">
+<h4>Submission procedures</h4>
+<p>If you want to present at our workshop, please fill <a href="https://docs.google.com/forms/d/e/1FAIpQLSdZnHcmIvAWIu0ILR2KuH8jQTCzUafoFu8cnrWr53syDrRajQ/viewform?gxids=7757">this form</a></p>
+<p>For more information see the <a href="https://uga-ut-ws.github.io/registration">registration</a> tab.</p>
+</div>
 </div>
 
 
@@ -327,7 +356,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
