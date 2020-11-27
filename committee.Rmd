@@ -8,7 +8,7 @@ description: |
 
 -----
 
-## Coordinators
+## Co-chairs
 
 -----
 
@@ -16,24 +16,21 @@ description: |
 
 <div style="width: 49%; float: left"> 
 
-```{r FUKUI, echo=FALSE, out.width = '30%', fig.align='left'}
-knitr::include_graphics("imgs/missing_avatar.svg")
+#### Souza	Lincon	
+PHD Student
+```{r Souza, echo=FALSE, out.width = '32%', fig.align='left'}
+knitr::include_graphics("imgs/lincon.jpg")
 ```
 
-#### FUKUI	Kazuhiro, University of Tsukuba
-
 </div>
-
 
 <div style="width: 49%; float: right"> 
 
-```{r BOUSQUET, echo=FALSE, out.width = '30%', fig.align='left'}
-knitr::include_graphics("imgs/missing_avatar.svg")
+#### Jouni	Mohamad
+PhD	Student
+```{r JOUNI, echo=FALSE, out.width = '30%', fig.align='left'}
+knitr::include_graphics("imgs/jouni.jpg")
 ```
-
-#### Lydie du Bousquet, University of Grenoble Alps
-
-</div>
 
 </div>
 
@@ -66,17 +63,13 @@ knitr::include_graphics("imgs/missing_avatar.svg")
 
 ### Univeristy of Tsukuba Members
 
-#### Souza	Lincon	
-PHD Student
-```{r Souza, echo=FALSE, out.width = '30%', fig.align='left'}
-knitr::include_graphics("imgs/lincon.jpg")
-```
-
 #### Lavinas Yuri
 PHD Student
 ```{r Lavinas, echo=FALSE, out.width = '30%', fig.align='left'}
 knitr::include_graphics("imgs/myself3.png")
 ```
+
+-----
 
 #### Fujinaka	Ayano
 PHD Student 
@@ -84,33 +77,45 @@ PHD Student
 knitr::include_graphics("imgs/Ayano_Fujinaka.jpg")
 ```
 
+-----
 
 #### Shimomoto Erica	
-PHD	Tsukuba
+PHD	Student
 ```{r Shimomoto, echo=FALSE, out.width = '30%', fig.align='left'}
 knitr::include_graphics("imgs/erica.jpg")
 ```
 
+-----
+
+
 #### Bourahmoune Katia
-PHD	Tsukuba
+PHD	Student
 ```{r Bourahmoune, echo=FALSE, out.width = '30%', fig.align='left'}
 knitr::include_graphics("imgs/katia.jpg")
 ```
 
+-----
+
+
 #### Pereira Jair
-Master	Tsukuba
+Master	Student
 ```{r Pereira, echo=FALSE, out.width = '30%', fig.align='left'}
 knitr::include_graphics("imgs/jair.jpeg")
 ```
 
+-----
+
+
 #### Vijdan	Khalique 	
-PHD	Tsukuba
+PHD	Student
 ```{r Vijdan, echo=FALSE, out.width = '30%', fig.align='left'}
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 
+-----
+
 #### Naoya Sogi
-PHD	Tsukuba
+PHD	Student
 ```{r Naoya, echo=FALSE, out.width = '30%', fig.align='left'}
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
@@ -121,58 +126,64 @@ knitr::include_graphics("imgs/missing_avatar.svg")
 
 ### Univeristy of Grenoble Members
 
-#### Jouni	Mohamad
-PhD	
-```{r JOUNI, echo=FALSE, out.width = '30%', fig.align='left'}
-knitr::include_graphics("imgs/jouni.jpg")
-```
-
 #### Foussard	Ernest
-PhD
+PhD Student
 ```{r Foussard, echo=FALSE, out.width = '30%', fig.align='left'}
 knitr::include_graphics("imgs/Ernest.jpg")
 ```
 
+-----
+
 #### Reinke Chris
-Post-doc
+Post-doc Researcher
 ```{r REINKE, echo=FALSE, out.width = '30%', fig.align='left'}
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 
+-----
+
 #### Shalaeva	Vera
-Post-doc
+Post-doc Researcher
 ```{r SHALAEVA, echo=FALSE, out.width = '30%', fig.align='left'}
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 
-
+-----
 
 #### Guhur Pierre-Louis
-PhD	
+PhD	Student
 ```{r GUHUR, echo=FALSE, out.width = '30%', fig.align='left'}
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 
+-----
+
 #### Zrigui	Salah
-PhD	
+PhD	Student
 ```{r ZRIGUI, echo=FALSE, out.width = '30%', fig.align='left'}
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 
+-----
+
 #### Koelsch Loriane
-PhD
+PhD Student
 ```{r KOELSCH, echo=FALSE, out.width = '30%', fig.align='left'}
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 
+-----
+
 #### Resediz	Mariel
-PHD
+PHD Student
 ```{r RESENDIZ, echo=FALSE, out.width = '30%', fig.align='left'}
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 
+-----
+
 #### Petit	Pascal
-Post-doc
+Post-doc Researcher
 ```{r Petit, echo=FALSE, out.width = '30%', fig.align='left'}
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
