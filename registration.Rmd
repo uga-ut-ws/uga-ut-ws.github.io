@@ -12,7 +12,7 @@ If you want to present at our workshop, please fill [this form](https://docs.goo
 
 ## Oral presentation 
 
-- Young researcher / Student oral presentation: 15 minutes + 5 minutes for QA
+- Young researcher / Student oral presentation: 15 minutes + 5 minutes for QA.
  
 - Professor oral presentation: 20 minutes + 10 minutes for Questions and Answers.
 	
@@ -29,18 +29,18 @@ All poster presenters should send a "presentation kit" by December 6th, 23:59 (J
 
 This kit includes:
 
-1. Spotlight Video: They will be made available at the website and at the entrance of poster session room on [Gather](https://gather.town/)
+1. Spotlight Video: They will be made available at the website and at the entrance of poster session room on [Gather](https://gather.town/).
 - 30 seconds long video with brief introduction of your presentation.
-- Resolution: 720p or better
-- Format: mp4
+- Resolution: 720p or better.
+- Format: mp4.
 
 2. Spotlight slides: To be available at the website.
 - Slides used in the spotlight video.
 - 1 to 2 slides.
-- Format: pdf
+- Format: PDF.
 Example of spotlight poster: https://drive.google.com/file/d/18yicA41vHFkrHAADiFty6_mbbn9JuPB6/view?usp=sharing
 
-3. Poster: To be available at the poster session room on [Gather](https://gather.town/)
+3. Poster: To be available at the poster session room on [Gather](https://gather.town/).
 - Landscape orientation;
 - Size: Widescreen (16:9)
 Example of poster: https://drive.google.com/file/d/1uO2CIA6ypEXUsjyD2baO9UW65oNPbdVz/view?usp=sharing

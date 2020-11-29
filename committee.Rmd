@@ -18,7 +18,7 @@ description: |
 
 #### Souza	Lincon	
 PHD Student
-```{r Souza, echo=FALSE, out.width = '32%', fig.align='left'}
+```{r Souza, echo=FALSE, out.width = '42%', fig.align='left'}
 knitr::include_graphics("imgs/lincon.jpg")
 ```
 
@@ -28,7 +28,7 @@ knitr::include_graphics("imgs/lincon.jpg")
 
 #### Jouni	Mohamad
 PhD	Student
-```{r JOUNI, echo=FALSE, out.width = '30%', fig.align='left'}
+```{r JOUNI, echo=FALSE, out.width = '40%', fig.align='left'}
 knitr::include_graphics("imgs/jouni.jpg")
 ```
 
@@ -61,11 +61,11 @@ knitr::include_graphics("imgs/jouni.jpg")
 
 <div style="width: 49%; float: left;"> 
 
-### Univeristy of Tsukuba Members
+### Univeristy of Tsukuba
 
 #### Lavinas Yuri
 PHD Student
-```{r Lavinas, echo=FALSE, out.width = '30%', fig.align='left'}
+```{r Lavinas, echo=FALSE, out.width = '46%', fig.align='left'}
 knitr::include_graphics("imgs/myself3.png")
 ```
 
@@ -73,15 +73,15 @@ knitr::include_graphics("imgs/myself3.png")
 
 #### Fujinaka	Ayano
 PHD Student 
-```{r Fujinaka, echo=FALSE, out.width = '30%', fig.align='left'}
-knitr::include_graphics("imgs/Ayano_Fujinaka.jpg")
+```{r Fujinaka, echo=FALSE, out.width = '46%', fig.align='left'}
+knitr::include_graphics("imgs/fujinaka.png")
 ```
 
 -----
 
 #### Shimomoto Erica	
 PHD	Student
-```{r Shimomoto, echo=FALSE, out.width = '30%', fig.align='left'}
+```{r Shimomoto, echo=FALSE, out.width = '35%', fig.align='left'}
 knitr::include_graphics("imgs/erica.jpg")
 ```
 
@@ -90,8 +90,8 @@ knitr::include_graphics("imgs/erica.jpg")
 
 #### Bourahmoune Katia
 PHD	Student
-```{r Bourahmoune, echo=FALSE, out.width = '30%', fig.align='left'}
-knitr::include_graphics("imgs/katia.jpg")
+```{r Bourahmoune, echo=FALSE, out.width = '40%', fig.align='left'}
+knitr::include_graphics("imgs/katia2.png")
 ```
 
 -----
@@ -99,7 +99,7 @@ knitr::include_graphics("imgs/katia.jpg")
 
 #### Pereira Jair
 Master	Student
-```{r Pereira, echo=FALSE, out.width = '30%', fig.align='left'}
+```{r Pereira, echo=FALSE, out.width = '40%', fig.align='left'}
 knitr::include_graphics("imgs/jair.jpeg")
 ```
 
@@ -108,15 +108,15 @@ knitr::include_graphics("imgs/jair.jpeg")
 
 #### Vijdan	Khalique 	
 PHD	Student
-```{r Vijdan, echo=FALSE, out.width = '30%', fig.align='left'}
-knitr::include_graphics("imgs/missing_avatar.svg")
+```{r Vijdan, echo=FALSE, out.width = '40%', fig.align='left'}
+knitr::include_graphics("imgs/vijdan.jpg")
 ```
 
 -----
 
 #### Naoya Sogi
 PHD	Student
-```{r Naoya, echo=FALSE, out.width = '30%', fig.align='left'}
+```{r Naoya, echo=FALSE, out.width = '40%', fig.align='left'}
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 
@@ -124,35 +124,37 @@ knitr::include_graphics("imgs/missing_avatar.svg")
 
 <div style="width: 49%; float: right;"> 
 
-### Univeristy of Grenoble Members
+### Univeristy of Grenoble-Alpes
 
 #### Foussard	Ernest
 PhD Student
-```{r Foussard, echo=FALSE, out.width = '30%', fig.align='left'}
+```{r Foussard, echo=FALSE, out.width = '39%', fig.align='left'}
 knitr::include_graphics("imgs/Ernest.jpg")
+```
+
+-----
+
+
+#### Shalaeva	Vera
+Post-doc Researcher
+```{r SHALAEVA, echo=FALSE, out.width = '40.5%', fig.align='left'}
+knitr::include_graphics("imgs/vera")
 ```
 
 -----
 
 #### Reinke Chris
 Post-doc Researcher
-```{r REINKE, echo=FALSE, out.width = '30%', fig.align='left'}
+```{r REINKE, echo=FALSE, out.width = '40%', fig.align='left'}
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 
------
-
-#### Shalaeva	Vera
-Post-doc Researcher
-```{r SHALAEVA, echo=FALSE, out.width = '30%', fig.align='left'}
-knitr::include_graphics("imgs/missing_avatar.svg")
-```
 
 -----
 
 #### Guhur Pierre-Louis
 PhD	Student
-```{r GUHUR, echo=FALSE, out.width = '30%', fig.align='left'}
+```{r GUHUR, echo=FALSE, out.width = '40%', fig.align='left'}
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 
@@ -160,7 +162,7 @@ knitr::include_graphics("imgs/missing_avatar.svg")
 
 #### Zrigui	Salah
 PhD	Student
-```{r ZRIGUI, echo=FALSE, out.width = '30%', fig.align='left'}
+```{r ZRIGUI, echo=FALSE, out.width = '40%', fig.align='left'}
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 
@@ -168,7 +170,7 @@ knitr::include_graphics("imgs/missing_avatar.svg")
 
 #### Koelsch Loriane
 PhD Student
-```{r KOELSCH, echo=FALSE, out.width = '30%', fig.align='left'}
+```{r KOELSCH, echo=FALSE, out.width = '40%', fig.align='left'}
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 
@@ -176,7 +178,7 @@ knitr::include_graphics("imgs/missing_avatar.svg")
 
 #### Resediz	Mariel
 PHD Student
-```{r RESENDIZ, echo=FALSE, out.width = '30%', fig.align='left'}
+```{r RESENDIZ, echo=FALSE, out.width = '40%', fig.align='left'}
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 
@@ -184,7 +186,7 @@ knitr::include_graphics("imgs/missing_avatar.svg")
 
 #### Petit	Pascal
 Post-doc Researcher
-```{r Petit, echo=FALSE, out.width = '30%', fig.align='left'}
+```{r Petit, echo=FALSE, out.width = '40%', fig.align='left'}
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 

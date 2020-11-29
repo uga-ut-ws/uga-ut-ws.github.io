@@ -7,7 +7,7 @@
 
 The 2020 UGA & UT Workshop is a collaborative workshop between the University of Grenoble-Alpes and the University of Tsukuba.
 
-Our workshop will consist of sessions of oral presentations and poster presentations. Students, young researchers, and professors from both universities are welcome to present their current or past research in our workshop! We hope that through our workshop, students and professors from both universities can discuss their respective research topics and find opportunities for future collaborations
+Our workshop will consist of sessions of oral presentations and poster presentations. Students, young researchers, and professors from both universities are welcome to present their current or past research in our workshop! We hope that through our workshop, students and professors from both universities can discuss their respective research topics and find opportunities for future collaborations.
 
 The main goal is to to accelerate the future preparation for double
 degree problem (DDP) between the University of Tsukuba and Univeristy of Grenoble-Alpes and to enhance the internationality and independence of mind of students of both universities.  
@@ -22,8 +22,8 @@ The UGA & UT Workshop is pleased to announce the full virtual conference program
 #### Workshop dates
 
 - December 16-17
-- START: 16:00 Japan Time - 08:00 Paris Time
-- END: 20:00 Japan Time - 12:00 Paris Time
+- START: 16:00 Japan Time - 08:00 Paris Time.
+- END: 20:00 Japan Time - 12:00 Paris Time.
 
 #### Submission procedures
 
