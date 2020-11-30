@@ -17,7 +17,7 @@ description: |
 <div style="width: 49%; float: left"> 
 
 #### Souza	Lincon	
-PHD Student
+PhD Student
 ```{r Souza, echo=FALSE, out.width = '42%', fig.align='left'}
 knitr::include_graphics("imgs/lincon.jpg")
 ```
@@ -64,7 +64,7 @@ knitr::include_graphics("imgs/jouni.jpg")
 ### University of Tsukuba
 
 #### Lavinas Yuri
-PHD Student
+PhD Student
 ```{r Lavinas, echo=FALSE, out.width = '46%', fig.align='left'}
 knitr::include_graphics("imgs/myself3.png")
 ```
@@ -72,7 +72,7 @@ knitr::include_graphics("imgs/myself3.png")
 -----
 
 #### Fujinaka	Ayano
-PHD Student 
+PhD Student 
 ```{r Fujinaka, echo=FALSE, out.width = '46%', fig.align='left'}
 knitr::include_graphics("imgs/fujinaka.png")
 ```
@@ -80,7 +80,7 @@ knitr::include_graphics("imgs/fujinaka.png")
 -----
 
 #### Shimomoto Erica	
-PHD	Student
+PhD	Student
 ```{r Shimomoto, echo=FALSE, out.width = '35%', fig.align='left'}
 knitr::include_graphics("imgs/erica.jpg")
 ```
@@ -89,7 +89,7 @@ knitr::include_graphics("imgs/erica.jpg")
 
 
 #### Bourahmoune Katia
-PHD	Student
+PhD	Student
 ```{r Bourahmoune, echo=FALSE, out.width = '40%', fig.align='left'}
 knitr::include_graphics("imgs/katia2.png")
 ```
@@ -107,7 +107,7 @@ knitr::include_graphics("imgs/jair.jpeg")
 
 
 #### Vijdan	Khalique 	
-PHD	Student
+PhD	Student
 ```{r Vijdan, echo=FALSE, out.width = '40%', fig.align='left'}
 knitr::include_graphics("imgs/vijdan.jpg")
 ```
@@ -115,7 +115,7 @@ knitr::include_graphics("imgs/vijdan.jpg")
 -----
 
 #### Naoya Sogi
-PHD	Student
+PhD	Student
 ```{r Naoya, echo=FALSE, out.width = '40%', fig.align='left'}
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
@@ -177,7 +177,7 @@ knitr::include_graphics("imgs/missing_avatar.svg")
 -----
 
 #### Resediz	Mariel
-PHD Student
+PhD Student
 ```{r RESENDIZ, echo=FALSE, out.width = '40%', fig.align='left'}
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
