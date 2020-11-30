@@ -1,5 +1,5 @@
 ---
- title: "UGA & UTWorkshop"
+ title: "UGA & UT Workshop"
  site: distill::distill_website
  
 ---
