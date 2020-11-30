@@ -12,5 +12,5 @@ knitr::opts_chunk$set()
 # x <- y <- list('fixedrange'= TRUE)
 
 #Execute
-render_site()
+render_site("committee.Rmd")
 beep()  #finished rendering

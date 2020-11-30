@@ -1,7 +1,7 @@
 ---
-title: "Commmittee"
+title: "Committee"
 description: |
-  Workshop Commmittee
+  Workshop Committee
 ---
 
 <br/>
@@ -61,7 +61,7 @@ knitr::include_graphics("imgs/jouni.jpg")
 
 <div style="width: 49%; float: left;"> 
 
-### Univeristy of Tsukuba
+### University of Tsukuba
 
 #### Lavinas Yuri
 PHD Student
@@ -124,7 +124,7 @@ knitr::include_graphics("imgs/missing_avatar.svg")
 
 <div style="width: 49%; float: right;"> 
 
-### Univeristy of Grenoble-Alpes
+### University of Grenoble-Alpes
 
 #### Foussard	Ernest
 PhD Student
