@@ -35,7 +35,7 @@ All poster presenters should send a "presentation kit" by December 6th, 23:59 (J
 This kit includes:
 
 1. Spotlight Video: They will be made available at the website and at the entrance of poster session room on [Gather](https://gather.town/).
-- 30 seconds long video with brief introduction of your presentation.
+- 1 minute long video with brief introduction of your presentation.
 - Resolution: 720p or better.
 - Format: mp4.
 
