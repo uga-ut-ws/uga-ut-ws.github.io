@@ -37,18 +37,27 @@ knitr::include_graphics("imgs/jouni.jpg")
 <br/>
 
 <br/>
+<br/>
+
+<br/>
+<br/>
+<br/>
+
+
+
+-----
 
 <br/>
 
 <br/>
-
 <br/>
 
 <br/>
 
-<br/>
 
-<br/>
+
+It is our great pleasure to warmly invite you to the 2020 UGA & UT Workshop, between the University of Grenoble Alpes (UGA) and the University of Tsukuba (UT) as part of their academic partnership. Here, we hope to promote the international exchange of expertise even further. Our vision is that this student-organized event will create new research opportunities, encourage open and independent mindsets, and increase the scientific network among our working groups.
+
 
 
 
