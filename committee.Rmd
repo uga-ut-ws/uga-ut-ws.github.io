@@ -152,11 +152,11 @@ knitr::include_graphics("imgs/missing_avatar.svg")
 
 -----
 
-#### Guhur Pierre-Louis
-PhD	Student
-```{r GUHUR, echo=FALSE, out.width = '40%', fig.align='left'}
-knitr::include_graphics("imgs/missing_avatar.svg")
-```
+<!-- #### Guhur Pierre-Louis -->
+<!-- PhD	Student -->
+<!-- ```{r GUHUR, echo=FALSE, out.width = '40%', fig.align='left'} -->
+<!-- knitr::include_graphics("imgs/missing_avatar.svg") -->
+<!-- ``` -->
 
 -----
 
