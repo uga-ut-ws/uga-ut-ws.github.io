@@ -152,6 +152,14 @@ knitr::include_graphics("imgs/vera")
 
 -----
 
+#### Resediz	Mariel
+PhD Student
+```{r RESENDIZ, echo=FALSE, out.width = '40%', fig.align='left'}
+knitr::include_graphics("imgs/mariel.JPG")
+```
+
+-----
+
 #### Reinke Chris
 Post-doc Researcher
 ```{r REINKE, echo=FALSE, out.width = '40%', fig.align='left'}
@@ -185,13 +193,7 @@ knitr::include_graphics("imgs/missing_avatar.svg")
 
 -----
 
-#### Resediz	Mariel
-PhD Student
-```{r RESENDIZ, echo=FALSE, out.width = '40%', fig.align='left'}
-knitr::include_graphics("imgs/mariel.JPG")
-```
 
------
 
 #### Petit	Pascal
 Post-doc Researcher
