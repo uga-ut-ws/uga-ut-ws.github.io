@@ -1,7 +1,7 @@
 ---
 title: "Committee"
 description: |
-  Workshop Committee
+  2020 Organizing Committee
 ---
 
 <br/>
