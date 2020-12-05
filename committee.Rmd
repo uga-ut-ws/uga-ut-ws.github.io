@@ -1,5 +1,5 @@
 ---
-title: "Committee"
+title: "2020 Organizing Committee"
 description: |
   2020 Organizing Committee
 ---
@@ -64,7 +64,7 @@ It is our great pleasure to warmly invite you to the 2020 UGA & UT Workshop, bet
 
 -----
 
-## Organization
+## General Organization
 
 -----
 
