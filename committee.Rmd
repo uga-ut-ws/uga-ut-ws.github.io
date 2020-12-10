@@ -158,16 +158,16 @@ PhD Student
 knitr::include_graphics("imgs/mariel.JPG")
 ```
 
------
+<!-- ----- -->
 
-#### Reinke Chris
-Post-doc Researcher
-```{r REINKE, echo=FALSE, out.width = '40%', fig.align='left'}
-knitr::include_graphics("imgs/missing_avatar.svg")
-```
+<!-- #### Reinke Chris -->
+<!-- Post-doc Researcher -->
+<!-- ```{r REINKE, echo=FALSE, out.width = '40%', fig.align='left'} -->
+<!-- knitr::include_graphics("imgs/missing_avatar.svg") -->
+<!-- ``` -->
 
 
------
+<!-- ----- -->
 
 <!-- #### Guhur Pierre-Louis -->
 <!-- PhD	Student -->
@@ -175,23 +175,23 @@ knitr::include_graphics("imgs/missing_avatar.svg")
 <!-- knitr::include_graphics("imgs/missing_avatar.svg") -->
 <!-- ``` -->
 
------
+<!-- ----- -->
 
-#### Zrigui	Salah
-PhD	Student
-```{r ZRIGUI, echo=FALSE, out.width = '40%', fig.align='left'}
-knitr::include_graphics("imgs/missing_avatar.svg")
-```
-
------
-
-#### Koelsch Loriane
-PhD Student
-```{r KOELSCH, echo=FALSE, out.width = '40%', fig.align='left'}
-knitr::include_graphics("imgs/missing_avatar.svg")
-```
+<!-- #### Zrigui	Salah -->
+<!-- PhD	Student -->
+<!-- ```{r ZRIGUI, echo=FALSE, out.width = '40%', fig.align='left'} -->
+<!-- knitr::include_graphics("imgs/missing_avatar.svg") -->
+<!-- ``` -->
 
 -----
+
+<!-- #### Koelsch Loriane -->
+<!-- PhD Student -->
+<!-- ```{r KOELSCH, echo=FALSE, out.width = '40%', fig.align='left'} -->
+<!-- knitr::include_graphics("imgs/missing_avatar.svg") -->
+<!-- ``` -->
+
+<!-- ----- -->
 
 
 
