@@ -152,7 +152,7 @@ knitr::include_graphics("imgs/vera")
 
 -----
 
-#### Resediz	Mariel
+#### Resendiz	Mariel
 PhD Student
 ```{r RESENDIZ, echo=FALSE, out.width = '40%', fig.align='left'}
 knitr::include_graphics("imgs/mariel.JPG")
