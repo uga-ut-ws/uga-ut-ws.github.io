@@ -4,6 +4,44 @@
  
 ---
 
+
+<div style="width: 30%; float: right;">
+
+
+
+#### Sponsors
+
+
+```{r ut_sponsors, echo=FALSE, out.width = '52%', fig.align='left'}
+knitr::include_graphics("imgs/ut2.png")
+```
+
+-----
+
+```{r uga_sponsors, echo=FALSE, out.width = '42%', fig.align='left'}
+knitr::include_graphics("imgs/uga2.png")
+```
+
+-----
+
+```{r cnrs, echo=FALSE, out.width = '42%', fig.align='left'}
+knitr::include_graphics("imgs/cnrs.png")
+```
+
+-----
+
+
+```{r region, echo=FALSE, out.width = '72%', fig.align='left'}
+knitr::include_graphics("imgs/region.png")
+```
+
+
+</div>
+
+
+ 
+<div style="width: 65%; float: left;">
+
 All presentations and interaction will be online and LIVE on [Gather](https://gather.town/).
 
 # Important
@@ -49,3 +87,5 @@ Example of spotlight poster: https://drive.google.com/file/d/18yicA41vHFkrHAADiF
 - Landscape orientation;
 - Size: Widescreen (16:9)
 Example of poster: https://drive.google.com/file/d/1uO2CIA6ypEXUsjyD2baO9UW65oNPbdVz/view?usp=sharing
+
+</div>

@@ -22,19 +22,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
-<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
-
-<style type="text/css">
-  code{white-space: pre-wrap;}
-  span.smallcaps{font-variant: small-caps;}
-  span.underline{text-decoration: underline;}
-  div.column{display: inline-block; vertical-align: top; width: 50%;}
-  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-  ul.task-list{list-style: none;}
-    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -323,8 +312,19 @@ $(document).ready(function () {
 </div>
 
 
+<div style="width: 30%; float: right;">
+<h4 id="sponsors">Sponsors</h4>
+<p><a href="http://www.tsukuba.ac.jp/en/"><img src="imgs/ut2.png" width="52%" style="display: block; margin: auto auto auto 0;" /></a></p>
+<hr />
+<p><a href="https://www.univ-grenoble-alpes.fr/english/"><img src="imgs/uga2.png" width="42%" style="display: block; margin: auto auto auto 0;" /></a></p>
+<hr />
+<p><a href="http://www.cnrs.fr/"><img src="imgs/cnrs.png" width="42%" style="display: block; margin: auto auto auto 0;" /></a></p>
+<hr />
+<p><a href="https://www.auvergnerhonealpes.fr/"><img src="imgs/region.png" width="72%" style="display: block; margin: auto auto auto 0;" /></a></p>
+</div>
+<div style="width: 65%; float: left;">
 <p>To be announced.</p>
-<!-- [![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8") -->
+</div>
 
 
 
@@ -335,7 +335,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
