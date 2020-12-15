@@ -267,7 +267,7 @@ We appreciate your understanding.
 
 - Video
 
-[![Spotlight video](videos/Lincon/Spotlight_slides.png)](videos/Lincon/spotlight_video.mp4 "Lincon")
+[![Spotlight video](videos/Lincon/spotlight_slides_02.png)](videos/Lincon/spotlight_video_02.mp4 "Lincon")
 
 -----
 
@@ -277,7 +277,7 @@ We appreciate your understanding.
 
 - Slides
 
-[![Spotlight slides](videos/Lincon/Spotlight_slides.png)](videos/Lincon/spotlight_slides.pdf "Lincon")
+[![Spotlight slides](videos/Lincon/spotlight_slides_02.png)](videos/Lincon/spotlight_slides_02.pdf "Lincon")
 
 -----
 
