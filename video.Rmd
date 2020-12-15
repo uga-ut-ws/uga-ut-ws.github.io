@@ -52,7 +52,7 @@ knitr::include_graphics("imgs/region.png")
 
 This research contains sensitive information on hospitalised patients. Therefore, we cannot make public the data on the website.
 Here at the website, we can download the password-protected zip files with the Spotlight video and slides.
-For more information please and access to the password contact Fujinaka	Ayano by [e-mail](mailto:s1830149@s.tsukuba.ac.jp).
+For more information and access to the password, please contact Fujinaka Ayano by [e-mail](mailto:s1830149@s.tsukuba.ac.jp).
 
 We appreciate your understanding.
 
