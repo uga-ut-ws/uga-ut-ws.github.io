@@ -4,7 +4,7 @@
  
 ---
 
-### Want to have an idea about what the poster presentations will be about? You can check their spotlight videos here!
+
 
 <div style="width: 30%; float: right;">
 
@@ -42,6 +42,8 @@ knitr::include_graphics("imgs/region.png")
 
  
 <div style="width: 65%; float: left;">
+
+### Want to have an idea about what the poster presentations will be about? You can check their spotlight videos here!
 
 -----
 
