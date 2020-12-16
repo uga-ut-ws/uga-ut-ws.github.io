@@ -33,6 +33,15 @@ knitr::include_graphics("imgs/cnrs.png")
 knitr::include_graphics("imgs/region.png")
 ```
 
+-----
+
+
+```{r c_air, echo=FALSE, out.width = '50%', fig.align='left'}
+knitr::include_graphics("imgs/c_air.png")
+```
+
+
+</div>
 
 </div>
 
