@@ -4,6 +4,8 @@
  
 ---
 
+
+
 <div style="width: 30%; float: right;">
 
 
@@ -41,56 +43,35 @@ knitr::include_graphics("imgs/region.png")
  
 <div style="width: 65%; float: left;">
 
+### Want to have an idea about what the poster presentations will be about? You can check their spotlight videos here!
+
 -----
 
+### 01: Fujinaka	Ayano
+#### Segmentation of intervertebral disks from videofluorography based on CNN, multi-channelization, and feature selection
 
-### Shimomoto Erica	
-#### Text classification based on the word subspace representation.
+This research contains sensitive information on hospitalised patients. Therefore, we cannot make public the data on the website.
+Here at the website, we can download the password-protected zip files with the Spotlight video and slides.
+For more information and access to the password, please contact Fujinaka Ayano by [e-mail](mailto:s1830149@s.tsukuba.ac.jp).
+
+We appreciate your understanding.
 
 
 <div style="width: 49%; float: left"> 
 
 - Video
 
-[![Spotlight video](videos/Erica/Spotlight_slides.png)](videos/Erica/spotlightvideo.mp4 "Erica")
+[![Spotlight video](videos/Fujinaka/Spotlight_slides.png)](videos/Fujinaka/spotlight_video.zip "Fujinaka")
 
 -----
 
 </div>
-
-<div style="width: 49%; float: right"> 
 
 - Slides
 
-[![Spotlight slides](videos/Erica/Spotlight_slides.png)](videos/Erica/spotlight_slides.pdf "Erica")
-
------
-
-</div>
-
------
-
------
-
-### Souza	Lincon	
-#### An Interface between Grassmann manifolds and vector spaces
-
-
-<div style="width: 49%; float: left"> 
-
-- Video
-
-[![Spotlight video](videos/Lincon/Spotlight_slides.png)](videos/Lincon/spotlight_video.mp4 "Lincon")
-
------
-
-</div>
-
 <div style="width: 49%; float: right"> 
 
-- Slides
-
-[![Spotlight slides](videos/Lincon/Spotlight_slides.png)](videos/Lincon/spotlight_slides.pdf "Lincon")
+[![Spotlight slides](videos/Fujinaka/Spotlight_slides.png)](videos/Fujinaka/splotlight_slides.zip "Fujinaka")
 
 -----
 
@@ -100,7 +81,7 @@ knitr::include_graphics("imgs/region.png")
 
 -----
 
-### Guoqing Hao
+### 02: Guoqing Hao
 #### Image Harmonization With Attention- based Deep Feature Modulation.
 
 
@@ -129,7 +110,7 @@ knitr::include_graphics("imgs/region.png")
 
 -----
 
-### Rita Suzana
+### 03: Rita Suzana
 #### Image Harmonization With Attention- based Deep Feature Modulation.
 
 
@@ -154,11 +135,9 @@ knitr::include_graphics("imgs/region.png")
 </div>
 
 
------
 
------
 
-### Masanori Muroi
+### 04: Masanori Muroi
 #### Fingerspelling Recognition with Two-Steps Cascade Process of Spotting and Classification
 
 <div style="width: 49%; float: left"> 
@@ -181,23 +160,14 @@ knitr::include_graphics("imgs/region.png")
 
 </div>
 
------
-
-### Fujinaka	Ayano
-#### Segmentation of intervertebral disks from videofluorography based on CNN, multi-channelization, and feature selection
-
-This research contains sensitive information on hospitalised patients. Therefore, we cannot make public the data on the website.
-Here at the website, we can download the password-protected zip files with the Spotlight video and slides.
-For more information please and access to the password contact Fujinaka	Ayano by [e-mail](mailto:s1830149@s.tsukuba.ac.jp).
-
-We appreciate your understanding.
-
+### 05: Yifan He
+#### Parameter Evolution Self-Adaptive Strategy
 
 <div style="width: 49%; float: left"> 
 
 - Video
 
-[![Spotlight video](videos/Fujinaka/Spotlight_slides.png)](videos/Fujinaka/spotlight_video.zip "Fujinaka")
+[![Spotlight video](videos/yifan/Spotlight_slides.png)](videos/yifan/Yifan He.mp4 "Yifan")
 
 -----
 
@@ -207,15 +177,35 @@ We appreciate your understanding.
 
 <div style="width: 49%; float: right"> 
 
-[![Spotlight slides](videos/Fujinaka/Spotlight_slides.png)](videos/Fujinaka/splotlight_slides.zip "Fujinaka")
+[![Spotlight video](videos/yifan/Spotlight_slides.png)](videos/yifan/Yifan He.pdf "Yifan")
+
+-----
+</div>
+
+### 06: Yue Qiu
+#### Multi-View Visual Question Answering with Active Viewpoint Selection
+
+<div style="width: 49%; float: left"> 
+
+- Video
+
+[![Spotlight video](videos/qiuyue/Spotlight_slides.png)](videos/qiuyue/multiview VQA_qiuyue_tsukuba_2020.mp4 "Qiu")
 
 -----
 
 </div>
 
+- Slides
+
+<div style="width: 49%; float: right"> 
+
+[![Spotlight video](videos/qiuyue/Spotlight_slides.png)](videos/qiuyue/multiview VQA_qiuyue_tsukuba_2020_spotlight.pdf "Qiu")
+
 -----
 
-### Naoya Sogi
+</div>
+
+### 07: Naoya Sogi
 #### Metric learning method for subspace-based image-set recognition
 
 <div style="width: 49%; float: left"> 
@@ -240,50 +230,57 @@ We appreciate your understanding.
 
 -----
 
-### Yifan He
-#### Parameter Evolution Self-Adaptive Strategy
+
+### 08: Shimomoto Erica	
+#### Text classification based on the word subspace representation.
+
 
 <div style="width: 49%; float: left"> 
 
 - Video
 
-[![Spotlight video](videos/yifan/Spotlight_slides.png)](videos/yifan/Yifan He.mp4 "Yifan")
+[![Spotlight video](videos/Erica/Spotlight_slides.png)](videos/Erica/spotlightvideo.mp4 "Erica")
 
 -----
 
 </div>
-
-- Slides
 
 <div style="width: 49%; float: right"> 
 
-[![Spotlight video](videos/yifan/Spotlight_slides.png)](videos/yifan/Yifan He.pdf "Yifan")
+- Slides
+
+[![Spotlight slides](videos/Erica/Spotlight_slides.png)](videos/Erica/spotlight_slides.pdf "Erica")
 
 -----
+
 </div>
 
-### Yue Qiu
-#### Multi-View Visual Question Answering with Active Viewpoint Selection
+-----
+
+-----
+
+### 09: Souza	Lincon	
+#### An Interface between Grassmann manifolds and vector spaces
+
 
 <div style="width: 49%; float: left"> 
 
 - Video
 
-[![Spotlight video](videos/qiuyue/Spotlight_slides.png)](videos/qiuyue/multiview VQA_qiuyue_tsukuba_2020.mp4 "Qiu")
+[![Spotlight video](videos/Lincon/spotlight_slides_02.png)](videos/Lincon/spotlight_video_02.mp4 "Lincon")
 
 -----
 
 </div>
-
-- Slides
 
 <div style="width: 49%; float: right"> 
 
-[![Spotlight video](videos/qiuyue/Spotlight_slides.png)](videos/qiuyue/multiview VQA_qiuyue_tsukuba_2020_spotlight.pdf "Qiu")
+- Slides
+
+[![Spotlight slides](videos/Lincon/spotlight_slides_02.png)](videos/Lincon/spotlight_slides_02.pdf "Lincon")
 
 -----
 
 </div>
-
 
 </div>
