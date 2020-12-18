@@ -291,4 +291,30 @@ We appreciate your understanding.
 
 </div>
 
+-----
+
+### 10: Mohamad Jouni
+#### Feature Extraction of Multimodal Images Based on Tensor Decomposition and Mathematical Morphology
+
+
+<div style="width: 49%; float: left"> 
+
+- Video
+
+[![Spotlight video](videos/jouni/spotlight_slide.png)](videos/jouni/spotlight_video.mp4 "jouni")
+
+-----
+
+</div>
+
+<div style="width: 49%; float: right"> 
+
+- Slides
+
+[![Spotlight slides](videos/jouni/spotlight_slide.png)](videos/jouni/spotlight_slides.pdf "jouni")
+
+-----
+
+</div>
+
 </div>
