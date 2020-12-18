@@ -311,7 +311,7 @@ We appreciate your understanding.
 
 - Slides
 
-[![Spotlight slides](videos/jouni/spotlight_slide.png)](videos/jouni/spotlight_slides.pdf "jouni")
+[![Spotlight slides](videos/jouni/spotlight_slide.png)](videos/jouni/spotlight_slide.pdf "jouni")
 
 -----
 
